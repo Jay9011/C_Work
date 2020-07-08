@@ -1,0 +1,5 @@
+﻿  701_function.c
+C:\Users\trowe\Dropbox\Java17\C_Work\07_Function\701_function.c(36,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+  myfunction.c
+  코드를 생성하고 있습니다...
+  07_Function.vcxproj -> C:\Users\trowe\Dropbox\Java17\C_Work\Debug\07_Function.exe
